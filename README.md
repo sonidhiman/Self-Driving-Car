@@ -1,0 +1,2 @@
+# Self-Driving-Car
+This project is made by using python.Its a project which making a car like tesla which can drive itself .For keeping tracking the route and to avoid obstacle we are using camera in our case.For selfdriving we have to take care of 4 direction and to avoid any obstacle.In our project it detecting if road is end  or something blocking the road.For gui purpose i have used tkinter library and some images for track ad cars, pygame library.
